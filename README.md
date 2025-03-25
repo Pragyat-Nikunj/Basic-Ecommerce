@@ -21,9 +21,5 @@ A basic e-commerce webpage using HTML, CSS, and JavaScript. It includes product 
    ```bash
    git clone https://github.com/your-username/simple-ecommerce-demo.git
    ```
-2. Navigate to the project folder:
-   ```bash
-   cd simple-ecommerce-demo
-   ```
-3. Open `index.html` in a browser.
+2. Open `index.html` in a browser.
 

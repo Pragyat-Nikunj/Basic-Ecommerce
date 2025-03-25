@@ -1,6 +1,10 @@
-# Simple E-Commerce Demo
-
+# Simple E-Commerce 
 A basic e-commerce webpage using HTML, CSS, and JavaScript. It includes product listings, a shopping cart, and localStorage integration for cart persistence.
+
+## 🎯 Live Demo  
+Check out the clock in action here: **[Simple E-Commerce Demo]([https://pragyat-nikunj.github.io/Analog-Clock/](https://pragyat-nikunj.github.io/Basic-Ecommerce/))**  
+
+
 
 ## Features
 
